@@ -3,9 +3,9 @@ import os
 
 
 data={
-    'NAME':['A','B','C','D'],
-    'AGE':[21,34,22,19],
-    'CLASS':['XII','XI','X','XI']
+    'NAME':['A','B','C','D','E'],
+    'AGE':[21,34,22,19,21],
+    'CLASS':['XII','XI','X','XI','XIII']
 }
 
 
